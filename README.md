@@ -1,2 +1,2 @@
-## Loruki-website
+# Loruki-website
 Cloud hosting website
